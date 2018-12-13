@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
     spec.name         = 'scrypt.c'
-    spec.version      = '0.1.0'
+    spec.version      = '0.1.1'
     spec.ios.deployment_target = "8.0"
     spec.osx.deployment_target = "10.10"
     spec.tvos.deployment_target = "9.0"
